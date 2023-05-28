@@ -16,7 +16,8 @@ interface IState{
 
 // interface 
 
-let setIntervalId: any = "clear
+let setIntervalId: any = ""
+
 class Counter extends Component<IProps,IState>{
 
     state:IState={
